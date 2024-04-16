@@ -21,6 +21,8 @@ webページの概要としては、1.温泉の4つランキング(総合、泉�
 ゆこゆこ、https://www.yukoyuko.net/onsen/search
 観光経済新聞、https://www.kankokeizai.com/100sen_36/
 
+観光経済新聞様では、表のみを使用しています。
+
 
 
 
