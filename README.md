@@ -2,7 +2,7 @@
 デプロイはしていませんが、実際に動かしてみたい方がいましたら、私がリアルタイムで動かす必要がありますが、ngrokで動かすので、ご連絡ください。
 →kawork0914@gmail.com
 より詳しく見たい方は、私のリポジトリvideoにspring.mp4として乗せているのでお手数ですが、ご覧ください。
-https://github.com/Kawashima-0914/video
+→https://github.com/Kawashima-0914/video
 
 https://github.com/Kawashima-0914/practice_spring/assets/149990150/b97d398f-7c34-4518-8997-0572337407c8
 
