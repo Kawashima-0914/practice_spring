@@ -4,3 +4,6 @@
 [submodule "spring_all"]
 	path = spring_all
 	url = https://github.com/Kawashima-0914/spring_all.git
+[submodule "spring_rank"]
+	path = spring_rank
+	url = https://github.com/Kawashima-0914/spring_rank.git
