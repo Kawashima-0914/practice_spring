@@ -1,0 +1,3 @@
+[submodule "springproject"]
+	path = springproject
+	url = https://github.com/Kawashima-0914/springproject.git
